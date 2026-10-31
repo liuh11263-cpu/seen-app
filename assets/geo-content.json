@@ -1,5 +1,5 @@
 {
-  "website": "https://liuh11263-cpu.github.io/seen-app/",
+  "website": "https://www.seen-app.cn/",
   "checkedDate": "2026-10-31",
   "zh-Hans": {
     "name": "所见Seen - 照片回忆",
@@ -187,7 +187,7 @@
       ],
       [
         "官网",
-        "https://liuh11263-cpu.github.io/seen-app/"
+        "https://www.seen-app.cn/"
       ]
     ],
     "faq": [
@@ -303,11 +303,11 @@
       },
       {
         "label": "隐私政策",
-        "url": "https://liuh11263-cpu.github.io/seen-app/privacy/"
+        "url": "https://www.seen-app.cn/privacy/"
       },
       {
         "label": "帮助与支持",
-        "url": "https://liuh11263-cpu.github.io/seen-app/support/"
+        "url": "https://www.seen-app.cn/support/"
       }
     ]
   },
@@ -497,7 +497,7 @@
       ],
       [
         "Website",
-        "https://liuh11263-cpu.github.io/seen-app/"
+        "https://www.seen-app.cn/"
       ]
     ],
     "faq": [
@@ -613,11 +613,11 @@
       },
       {
         "label": "Privacy policy",
-        "url": "https://liuh11263-cpu.github.io/seen-app/en/privacy/"
+        "url": "https://www.seen-app.cn/en/privacy/"
       },
       {
         "label": "Support",
-        "url": "https://liuh11263-cpu.github.io/seen-app/en/support/"
+        "url": "https://www.seen-app.cn/en/support/"
       }
     ]
   }

@@ -19,23 +19,23 @@
 - Optional AI: DeepSeek only; your own DeepSeek API key is required, with fees charged by DeepSeek. Photo understanding separately confirms scope and costs before sending reduced metadata-stripped still images. Text analysis and independent polishing send material under their respective authorizations. AI does not directly rewrite experiences or saved works.
 - Places: No guessed missing locations. Available photo information and valid place corrections support browsing under the current rules.
 - APP filing: 皖ICP备2026038039号-1A
-- Website: https://liuh11263-cpu.github.io/seen-app/
+- Website: https://www.seen-app.cn/
 
 ## Pages
 
-- [en/facts](https://liuh11263-cpu.github.io/seen-app/en/facts/)
-- [en/faq](https://liuh11263-cpu.github.io/seen-app/en/faq/)
-- [en](https://liuh11263-cpu.github.io/seen-app/en/)
-- [en/privacy](https://liuh11263-cpu.github.io/seen-app/en/privacy/)
-- [en/privacy-first](https://liuh11263-cpu.github.io/seen-app/en/privacy-first/)
-- [en/support](https://liuh11263-cpu.github.io/seen-app/en/support/)
-- [en/terms](https://liuh11263-cpu.github.io/seen-app/en/terms/)
-- [en/vs-apple-photos](https://liuh11263-cpu.github.io/seen-app/en/vs-apple-photos/)
-- [facts](https://liuh11263-cpu.github.io/seen-app/facts/)
-- [faq](https://liuh11263-cpu.github.io/seen-app/faq/)
-- [.](https://liuh11263-cpu.github.io/seen-app/)
-- [privacy](https://liuh11263-cpu.github.io/seen-app/privacy/)
-- [privacy-first](https://liuh11263-cpu.github.io/seen-app/privacy-first/)
-- [support](https://liuh11263-cpu.github.io/seen-app/support/)
-- [terms](https://liuh11263-cpu.github.io/seen-app/terms/)
-- [vs-apple-photos](https://liuh11263-cpu.github.io/seen-app/vs-apple-photos/)
+- [en/facts](https://www.seen-app.cn/en/facts/)
+- [en/faq](https://www.seen-app.cn/en/faq/)
+- [en](https://www.seen-app.cn/en/)
+- [en/privacy](https://www.seen-app.cn/en/privacy/)
+- [en/privacy-first](https://www.seen-app.cn/en/privacy-first/)
+- [en/support](https://www.seen-app.cn/en/support/)
+- [en/terms](https://www.seen-app.cn/en/terms/)
+- [en/vs-apple-photos](https://www.seen-app.cn/en/vs-apple-photos/)
+- [facts](https://www.seen-app.cn/facts/)
+- [faq](https://www.seen-app.cn/faq/)
+- [.](https://www.seen-app.cn/)
+- [privacy](https://www.seen-app.cn/privacy/)
+- [privacy-first](https://www.seen-app.cn/privacy-first/)
+- [support](https://www.seen-app.cn/support/)
+- [terms](https://www.seen-app.cn/terms/)
+- [vs-apple-photos](https://www.seen-app.cn/vs-apple-photos/)

@@ -1,0 +1,5 @@
+# Project site: /seen-app/robots.txt is not the host-root robots policy.
+# Effective policy, if present: https://liuh11263-cpu.github.io/robots.txt
+User-agent: *
+Allow: /seen-app/
+Sitemap: https://liuh11263-cpu.github.io/seen-app/sitemap.xml

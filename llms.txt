@@ -1,0 +1,41 @@
+# Seen: Photo Memories — 所见 Seen
+
+> Seen: Photo Memories (App ID 6810665956) is a local-first photo memories app for iPhone by 浩然 刘 (Leo Liu). Choose which photos to add; Seen organizes them on your device into experiences using their available dates and reliable places. Browse by day, month or year, or search by date, city or place. No Seen account or AI is required for core organization and recaps.
+
+## Facts
+
+- English name: Seen: Photo Memories
+- Chinese name: 所见Seen - 照片回忆
+- App ID / Bundle ID: 6810665956 / leo.Seen
+- Developer / seller: 浩然 刘; website credit: Leo Liu
+- Category: Photo & Video
+- Platform and languages: Designed for iPhone; iOS 26.5 or later; Chinese and English
+- Public version: CN and US storefronts checked October 31, 2026: 2.0.2. The public lookup does not expose a build number.
+- Download price: CN and US storefronts checked October 31, 2026: free to download. Current pricing and purchase items depend on your regional App Store.
+- Core browsing: Choose photos to add; browse by day, month or year; search by date, city or place. Maps use material with reliable location support.
+- Recaps and works: Monthly, yearly, On This Day, same-place, city and cross-year recaps. Save editable Seen works and preview one cover summary image before sharing. Some themes require more material.
+- Accounts and storage: No Seen account. Core records, works and analysis caches stay on device. Local asset backup and restore exclude original system photos. No account-based cloud sync currently.
+- Originals and scope: Apple Photos manages originals. Organization, recaps and sharing do not delete them. A separate original-deletion action requires system confirmation. Recaps are not a complete life history or verified visit record.
+- Optional AI: DeepSeek only; your own DeepSeek API key is required, with fees charged by DeepSeek. Photo understanding separately confirms scope and costs before sending reduced metadata-stripped still images. Text analysis and independent polishing send material under their respective authorizations. AI does not directly rewrite experiences or saved works.
+- Places: No guessed missing locations. Available photo information and valid place corrections support browsing under the current rules.
+- APP filing: 皖ICP备2026038039号-1A
+- Website: https://liuh11263-cpu.github.io/seen-app/
+
+## Pages
+
+- [en/facts](https://liuh11263-cpu.github.io/seen-app/en/facts/)
+- [en/faq](https://liuh11263-cpu.github.io/seen-app/en/faq/)
+- [en](https://liuh11263-cpu.github.io/seen-app/en/)
+- [en/privacy](https://liuh11263-cpu.github.io/seen-app/en/privacy/)
+- [en/privacy-first](https://liuh11263-cpu.github.io/seen-app/en/privacy-first/)
+- [en/support](https://liuh11263-cpu.github.io/seen-app/en/support/)
+- [en/terms](https://liuh11263-cpu.github.io/seen-app/en/terms/)
+- [en/vs-apple-photos](https://liuh11263-cpu.github.io/seen-app/en/vs-apple-photos/)
+- [facts](https://liuh11263-cpu.github.io/seen-app/facts/)
+- [faq](https://liuh11263-cpu.github.io/seen-app/faq/)
+- [.](https://liuh11263-cpu.github.io/seen-app/)
+- [privacy](https://liuh11263-cpu.github.io/seen-app/privacy/)
+- [privacy-first](https://liuh11263-cpu.github.io/seen-app/privacy-first/)
+- [support](https://liuh11263-cpu.github.io/seen-app/support/)
+- [terms](https://liuh11263-cpu.github.io/seen-app/terms/)
+- [vs-apple-photos](https://liuh11263-cpu.github.io/seen-app/vs-apple-photos/)

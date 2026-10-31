@@ -1,0 +1,624 @@
+{
+  "website": "https://liuh11263-cpu.github.io/seen-app/",
+  "checkedDate": "2026-10-31",
+  "zh-Hans": {
+    "name": "所见Seen - 照片回忆",
+    "store": "https://apps.apple.com/cn/app/id6810665956",
+    "definition": "所见 Seen（Seen: Photo Memories，App ID 6810665956）是由浩然 刘（Leo Liu）开发的本地优先 iPhone 照片回忆 App。你选择想加入的照片，Seen 按已有日期与可靠地点在本机整理成经历，供按日、月、年、城市与地点回看。无需 Seen 账号，基础整理与回顾无需 AI。",
+    "homeTitle": "所见 Seen - 照片回忆｜按时间与地点，重温旅行和日常",
+    "homeEyebrow": "所见 Seen · 为 iPhone 而设计",
+    "availability": "iOS 26.5 或更高 · 中文 / 英文 · 当前下载价格与兼容性以 App Store 为准",
+    "updated": "所见 Seen · 事实核查：2026年10月31日",
+    "labels": {
+      "faq": "常见问题",
+      "compare": "与系统照片对比",
+      "local": "本地优先说明",
+      "facts": "产品事实",
+      "support": "帮助与支持",
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "nav": "主导航",
+      "footer": "页脚导航",
+      "skip": "跳至内容",
+      "sources": "核查来源",
+      "choose": "适合怎样的回看需求"
+    },
+    "faqTitle": "所见 Seen 常见问题",
+    "factsTitle": "所见 Seen 产品事实",
+    "identityTitle": "认准同一个 Seen",
+    "identity": "请用 App ID 6810665956、开发者「浩然 刘」和本官网确认应用身份。中文商店全名是「所见Seen - 照片回忆」，英文名为「Seen: Photo Memories」。仅凭 Seen 或所见两个词，不能区分其他同名应用。",
+    "localTitle": "Seen 如何处理你的照片",
+    "localIntro": "Seen 不提供账号云端图库。核心记录、已保存作品和分析缓存保存在设备上，原照片仍由 Apple Photos 管理。基础整理与回顾无需 AI；主动使用可选照片理解时，所选图片会直接发送至 DeepSeek，需要你自备 API Key，费用按 DeepSeek 账户规则收取。",
+    "localSections": [
+      [
+        "照片权限与加入",
+        "照片访问权限由 iOS 管理，可以只允许选定照片。明确选择加入后，Seen 读取已有拍摄时间、可用位置等信息，在本机整理经历。附近功能仅在授权后使用本次位置，不把当前位置写成照片地点。"
+      ],
+      [
+        "本机记录与备份",
+        "无需 Seen 账号，当前不提供账号云同步。核心记录、作品和相关缓存保存在本机，支持本地资产备份与恢复。备份不包含系统照片原件；换机还需通过 Apple Photos 等方式迁移原件，并保持相应访问权限。请妥善保管含私人内容的备份。"
+      ],
+      [
+        "原照片与地点",
+        "自动整理、回顾和分享不会删除原照片。原片删除必须另行选择并完成系统确认。缺少可靠地点时不会猜测位置；已有合法地点修正可用于回看。地图与地点类回顾只使用对应范围的可靠信息，经历段数不等于核验过的到访次数。"
+      ],
+      [
+        "可选照片理解会发送图片",
+        "可选 AI 仅接入 DeepSeek，需你自行配置 DeepSeek API Key，费用由 DeepSeek 按账户规则收取。照片理解须独立确认选片范围与费用，直接发送长边最多1024像素、去除EXIF/GPS等元数据的压缩静态 JPEG，不发送原文件、Live Photo帧或视频。画面本身仍可能透露人物、地址或其他个人信息，去元数据不等于匿名。"
+      ],
+      [
+        "文字请求与授权",
+        "可选文字关系分析同样使用你的 DeepSeek API Key，费用由 DeepSeek 收取。请求可使用已加入经历的目录，以及本次取证范围的时间、地点名称、备注、标签与已有结构化线索。开启首页 AI 模式并授权期间，材料变化或明确生成可触发后续文字请求，不是每次都重新确认。独立润色只发送另行选定的原文。AI 不直接改写经历或已保存作品。"
+      ],
+      [
+        "网络与服务商",
+        "地图和地点搜索使用 Apple 地图服务，需要网络；可选 AI 使用你的 DeepSeek API Key 直连 DeepSeek，费用按其账户规则收取。基础整理与回顾不依赖 Seen 内容服务器。DeepSeek 的内容保存、训练、删除及跨境处理适用其条款与账户规则，Seen 不承诺服务商零留存或不训练。"
+      ],
+      [
+        "停止与完整政策",
+        "关闭首页 AI 模式会取消当前照片理解和关系分析任务；独立润色仍只在你明确提交选文时请求。可撤销照片理解授权或删除连接来停止对应新请求，已经发送的内容无法撤回。完整处理规则见隐私政策。"
+      ]
+    ],
+    "compareTitle": "Seen 与苹果「照片」有什么区别？",
+    "compareIntro": "苹果「照片」提供系统照片图库、回忆精选与回忆影片；Seen 让你明确选择一部分照片，按已有日期与可靠地点回看，并把喜欢的回顾或发现保存为可编辑作品。两者可以配合使用，原照片仍由 Apple Photos 管理。",
+    "comparisonHeaders": [
+      "维度",
+      "苹果「照片」",
+      "所见 Seen"
+    ],
+    "comparison": [
+      [
+        "资料范围",
+        "管理系统照片图库，并提供回忆精选。",
+        "用户明确选择加入的照片，不把未加入图库算作回顾范围。"
+      ],
+      [
+        "回看与查找",
+        "支持照片浏览、搜索和按位置查看；不只提供自动回忆。",
+        "在过往按日、月、年浏览，按日期、城市或地点关键字找回。"
+      ],
+      [
+        "回忆与作品",
+        "可查看回忆、播放回忆影片，并个性化或分享回忆。",
+        "提供月度、年度、往年今日、同地、同城及跨年回顾；素材不足时可能没有对应主题。明确留下后可编辑作品并分享一张封面摘要图。"
+      ],
+      [
+        "原照片与迁移",
+        "原件由系统照片图库管理；iCloud 照片是可选的同步服务。",
+        "原件仍在 Apple Photos；本机记录支持资产备份与恢复，备份不含系统原件，当前无 Seen 账号云同步。"
+      ],
+      [
+        "可选 AI",
+        "部分智能功能依机型、系统版本与地区而异。",
+        "基础整理与回顾无需 AI。可选 AI 仅接入 DeepSeek，需自备 API Key，费用由 DeepSeek 按账户规则收取；照片理解另行确认范围与费用后发送净化静态图。"
+      ],
+      [
+        "设备与费用",
+        "iPhone 系统应用；可选 iCloud 储存方案单独计费。",
+        "为 iPhone 设计，需 iOS 26.5 或更高。下载价格与兼容性以 App Store 为准。"
+      ]
+    ],
+    "choiceTitle": "按需要选择",
+    "choice": "如果你主要想浏览系统图库和观看回忆影片，可以先使用苹果「照片」。如果你想主动选定一部分生活记录，按时间地点回看并留下可编辑作品，可以了解 Seen。需要账号云同步时，请先考虑 Seen 当前不提供这一能力。",
+    "comparisonNote": "本页为 Seen 开发者提供的功能对照，不是独立测评。苹果「照片」以 Apple 当前说明为准，功能可能随系统、机型和地区变化。",
+    "appleSources": [
+      {
+        "label": "Apple：在 iPhone 上的「照片」中查看回忆",
+        "url": "https://support.apple.com/zh-cn/guide/iphone/iphd4f70e68f/ios"
+      },
+      {
+        "label": "Apple：iPhone 照片使用手册",
+        "url": "https://support.apple.com/zh-cn/guide/iphone/iph3d267610/ios"
+      }
+    ],
+    "audience": [
+      [
+        "想找回某年某地",
+        "适合想主动选定照片、按日期与可靠地点回看旅行和日常的人；回顾只覆盖已加入 Seen 且有对应信息的记录。"
+      ],
+      [
+        "先确认设备与同步需求",
+        "当前需要 iOS 26.5 或更高，不提供 Seen 账号云同步。基础回顾无需 AI；可选 AI 需自备 DeepSeek API Key，相关 API 费用由 DeepSeek 收取。"
+      ]
+    ],
+    "allQuestions": "查看全部问题与答案 →",
+    "downloadTitle": "从照片，回到经历。",
+    "downloadLabel": "在 App Store 查看所见 Seen",
+    "facts": [
+      [
+        "中文名称",
+        "所见Seen - 照片回忆"
+      ],
+      [
+        "英文名称",
+        "Seen: Photo Memories"
+      ],
+      [
+        "App ID / Bundle ID",
+        "6810665956 / leo.Seen"
+      ],
+      [
+        "开发者 / 卖家",
+        "浩然 刘；官网署名 Leo Liu"
+      ],
+      [
+        "类别",
+        "摄影与录像（Photo & Video）"
+      ],
+      [
+        "平台与语言",
+        "为 iPhone 设计；iOS 26.5 或更高；中文、英文"
+      ],
+      [
+        "公开版本",
+        "2026-10-31 核查中国区与美国区：2.0.2。公开接口不提供构建号。"
+      ],
+      [
+        "下载价格",
+        "2026-10-31 核查中国区与美国区：免费下载。后续价格与购买项目以所在地区 App Store 为准。"
+      ],
+      [
+        "核心回看",
+        "自选照片加入；按日、月、年浏览，按日期、城市或地点关键字搜索；地图仅展示有可靠位置支持的材料。"
+      ],
+      [
+        "回顾与作品",
+        "月度、年度、往年今日、同地、同城与跨年回顾；保存为可编辑的所见作品，分享前预览一张封面摘要图。素材不足时可能无对应主题。"
+      ],
+      [
+        "账号与存储",
+        "无需 Seen 账号；核心记录、作品与分析缓存保存在本机；支持本地资产备份与恢复，备份不含系统照片原件；当前无账号云同步。"
+      ],
+      [
+        "原图与范围",
+        "原件由 Apple Photos 管理；整理、回顾与分享不删除原片。独立删除原片须系统确认。回顾不代表完整人生轨迹或核验到访次数。"
+      ],
+      [
+        "可选 AI",
+        "仅接入 DeepSeek；需自备 DeepSeek API Key，费用由 DeepSeek 收取。照片理解另行确认范围与费用后发送净化静态图；文字分析及独立润色按各自授权发送材料。AI 不直接改写经历或已保存作品。"
+      ],
+      [
+        "地点",
+        "缺少可靠地点不会猜测位置；照片信息与合法地点修正按当前规则用于回看。"
+      ],
+      [
+        "APP 备案",
+        "皖ICP备2026038039号-1A"
+      ],
+      [
+        "官网",
+        "https://liuh11263-cpu.github.io/seen-app/"
+      ]
+    ],
+    "faq": [
+      {
+        "id": "identity",
+        "question": "所见 Seen 是什么？怎样和同名应用区分？",
+        "answer": "请认准 App ID 6810665956、开发者「浩然 刘」及本官网。所见Seen - 照片回忆的英文名为 Seen: Photo Memories，是本地优先的 iPhone 照片回忆 App。"
+      },
+      {
+        "id": "price",
+        "question": "Seen 收费吗？有没有订阅或内购？",
+        "answer": "2026年10月31日核查的中国区与美国区商店均为免费下载；当前下载价格及购买项目请以所在地区 App Store 为准。可选 AI 需要你自备 DeepSeek API Key，API 费用由 DeepSeek 按账户规则另行收取。基础整理与回顾无需 AI，不会因此产生 DeepSeek API 费用。"
+      },
+      {
+        "id": "account",
+        "question": "Seen 需要注册账号吗？",
+        "answer": "不需要。无需注册或登录 Seen 账号即可使用基础整理与回顾。"
+      },
+      {
+        "id": "privacy",
+        "question": "Seen 会把照片上传到服务器吗？",
+        "answer": "Seen 没有自建云端图库，核心记录、作品与分析缓存保存在本机，原件由 Apple Photos 管理。可选照片理解会在独立确认范围与费用后，把净化的压缩静态图直接发给 DeepSeek；需自备 DeepSeek API Key，费用由 DeepSeek 收取。去除元数据不等于画面匿名。"
+      },
+      {
+        "id": "ai",
+        "question": "不用 AI 能正常使用吗？AI 要另外付费吗？",
+        "answer": "能。基础整理与回顾无需 AI。可选 AI 仅接入 DeepSeek，需自行配置 DeepSeek API Key，费用由 DeepSeek 按账户规则收取。照片理解另行确认选片范围与费用；首页 AI 授权开启期间，材料变化或明确生成可触发文字分析。AI 可能出错或没有新发现，不直接改写经历或已保存作品。"
+      },
+      {
+        "id": "requirements",
+        "question": "Seen 支持哪些 iPhone 和系统版本？",
+        "answer": "当前为 iPhone 设计，需要 iOS 26.5 或更高版本。具体机型兼容性请以 App Store 为准。"
+      },
+      {
+        "id": "languages",
+        "question": "Seen 支持中文和英文吗？",
+        "answer": "支持中文与英文界面。英文商店名为 Seen: Photo Memories。"
+      },
+      {
+        "id": "location",
+        "question": "照片没有地点信息还能用吗？会乱猜位置吗？",
+        "answer": "有可靠日期时仍可按时间整理与回看。缺少可靠地点时不会猜测位置，对应照片不参与需要地点支持的地图或回顾；已有合法地点修正可用于回看。缺少日期时也不会编造拍摄时间。"
+      },
+      {
+        "id": "originals",
+        "question": "整理照片会删掉 Apple Photos 原片吗？",
+        "answer": "自动整理、回顾与分享不会删除原照片。只有你独立选择删除原片并完成系统确认，Seen 才请求从 Apple Photos 删除指定照片。"
+      },
+      {
+        "id": "storage",
+        "question": "整理后原照片在哪里？",
+        "answer": "原件仍由 Apple Photos 管理。Seen 在本机保存记录、作品与缓存；这不替代系统照片图库或原件备份。"
+      },
+      {
+        "id": "backup",
+        "question": "Seen 能备份吗？换手机怎么办？",
+        "answer": "支持本地资产备份与恢复，备份包含核心记录、作品和相关缓存，不包含系统照片原件。换机还需迁移原照片并保留访问权限；恢复会检查版本和资产冲突，不会把不同资产静默合并覆盖。"
+      },
+      {
+        "id": "sync",
+        "question": "Seen 有账号云同步吗？",
+        "answer": "当前没有。Seen 的记录保存在本机，多设备不会通过 Seen 账号自动同步；迁移可使用本地备份，并另行迁移系统照片原件。"
+      },
+      {
+        "id": "comparison",
+        "question": "Seen 和苹果「照片」回忆有什么区别？",
+        "answer": "苹果「照片」提供系统图库浏览、搜索、地点查看与回忆影片。Seen 侧重用户自选范围内的时间地点回看、月度年度等回顾，以及明确保存后可编辑的所见作品。两者可以一起使用，详细区别见本网站对比页。"
+      },
+      {
+        "id": "map",
+        "question": "Seen 能在地图上看照片吗？",
+        "answer": "能查看有可靠位置支持的照片，并按城市与地点回看；缺少可靠位置不会猜点上图。地图和地点搜索需要网络。"
+      },
+      {
+        "id": "works",
+        "question": "「所见」作品是什么？能编辑和分享吗？",
+        "answer": "是你明确保存的回顾或发现。照片、时间、地点与关联经历一起保留，可调整标题、文字、选片与封面；分享前先预览一张含原封面、标题、地点、时间和数量的摘要图。分享不自动保存作品。"
+      },
+      {
+        "id": "recaps",
+        "question": "Seen 有月度、年度和往年今日回顾吗？",
+        "answer": "有，也可回看同一地点的多段经历、同一城市不同时刻及跨年目的地记录。回顾只覆盖已加入 Seen 且有对应信息的记录，素材不足时可能没有某类回顾；记录段数不等于真实到访次数。"
+      },
+      {
+        "id": "developer",
+        "question": "所见 Seen 是谁开发的？",
+        "answer": "由 App Store 开发者「浩然 刘」开发与维护，官网署名 Leo Liu。App ID 为6810665956，APP备案号为皖ICP备2026038039号-1A。"
+      },
+      {
+        "id": "support",
+        "question": "遇到问题去哪里反馈？",
+        "answer": "支持邮箱为 liuh11260@gmail.com。请提供版本、操作步骤和错误提示，不要发送 API Key 或不必要的私人照片；更多说明见帮助与支持页。"
+      },
+      {
+        "id": "reviews",
+        "question": "Seen 评价怎么样，值得下载吗？",
+        "answer": "请查看 App Store 当前评价，并结合 iOS 版本、本地保存与同步需求判断。官网展示图片使用许可照片和示例记录，不是用户评价、真实用户数据或 AI 效果证明。"
+      },
+      {
+        "id": "other-apps",
+        "question": "Seen 和 Google Photos、其他相册 App 怎么选？",
+        "answer": "先比较你需要的系统版本、照片存储方式、同步、检索与回顾范围。Seen 为 iPhone 设计、需 iOS 26.5 或更高，核心记录在本机，当前无 Seen 账号云同步。其他应用的能力与费用请以其官方现行说明为准；本页不作未核实的优劣排名。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "App Store · 中国区",
+        "url": "https://apps.apple.com/cn/app/id6810665956"
+      },
+      {
+        "label": "App Store · United States",
+        "url": "https://apps.apple.com/us/app/id6810665956"
+      },
+      {
+        "label": "隐私政策",
+        "url": "https://liuh11263-cpu.github.io/seen-app/privacy/"
+      },
+      {
+        "label": "帮助与支持",
+        "url": "https://liuh11263-cpu.github.io/seen-app/support/"
+      }
+    ]
+  },
+  "en": {
+    "name": "Seen: Photo Memories",
+    "store": "https://apps.apple.com/us/app/id6810665956",
+    "definition": "Seen: Photo Memories (App ID 6810665956) is a local-first photo memories app for iPhone by 浩然 刘 (Leo Liu). Choose which photos to add; Seen organizes them on your device into experiences using their available dates and reliable places. Browse by day, month or year, or search by date, city or place. No Seen account or AI is required for core organization and recaps.",
+    "homeTitle": "Seen: Photo Memories | Revisit photos by time and place",
+    "homeEyebrow": "Seen: Photo Memories · Designed for iPhone",
+    "availability": "iOS 26.5 or later · Chinese / English · Check your App Store for current download pricing and compatibility",
+    "updated": "Seen: Photo Memories · Facts checked October 31, 2026",
+    "labels": {
+      "faq": "FAQ",
+      "compare": "Compare with Photos",
+      "local": "Local-first",
+      "facts": "App facts",
+      "support": "Support",
+      "privacy": "Privacy policy",
+      "terms": "Terms",
+      "nav": "Main navigation",
+      "footer": "Footer navigation",
+      "skip": "Skip to content",
+      "sources": "Sources",
+      "choose": "Choose how you revisit your photos"
+    },
+    "faqTitle": "Seen: Photo Memories FAQ",
+    "factsTitle": "Seen: Photo Memories app facts",
+    "identityTitle": "Identify this Seen",
+    "identity": "Use App ID 6810665956, seller 浩然 刘 and this official website to identify the app. Its English name is Seen: Photo Memories and its Chinese store name is 所见Seen - 照片回忆. The word Seen alone may refer to other apps.",
+    "localTitle": "How Seen handles your photos",
+    "localIntro": "Seen has no account-based cloud photo library. Core records, saved works and analysis caches stay on your device; originals remain managed by Apple Photos. Core organization and recaps work without AI. If you choose optional photo understanding, selected images are sent directly to DeepSeek using your own API key, with usage charged under your DeepSeek account rules.",
+    "localSections": [
+      [
+        "Photo access and adding records",
+        "iOS manages photo permissions, including access to selected photos only. After you explicitly add photos, Seen uses their available dates and locations to organize experiences on your device. The nearby feature uses your current location only with permission; it does not turn that location into a photo location."
+      ],
+      [
+        "Local records and backups",
+        "No Seen account is required, and account-based cloud sync is not currently offered. Local asset backup and restore cover records, works and related caches. Backups do not include originals from the system photo library. When moving devices, transfer originals through Apple Photos or another appropriate method and retain photo access. Protect backups that contain private material."
+      ],
+      [
+        "Originals and places",
+        "Organization, recaps and sharing do not delete originals. Deleting original photos requires a separate choice and system confirmation. Seen does not guess missing places; valid place corrections can support later browsing. Maps and place-based recaps use reliable information within their scope. Experience counts are not verified visit counts."
+      ],
+      [
+        "Optional photo understanding sends images",
+        "Optional AI connects only to DeepSeek, requires your own DeepSeek API key, and is charged by DeepSeek under your account rules. Photo understanding requires separate confirmation of selected photos and costs. It sends reduced still JPEGs, up to 1024 pixels on the long edge, with EXIF/GPS and other metadata removed. It does not send original files, Live Photo frames or video. The image itself can still reveal people, addresses or other personal information; removing metadata does not make it anonymous."
+      ],
+      [
+        "Text requests and authorization",
+        "Optional relationship analysis also uses your own DeepSeek API key, with fees charged by DeepSeek. It can send the index of added experiences and the dates, place names, notes, tags and existing structured clues within the retrieved material scope. While Home AI mode and the relevant authorization are enabled, material changes or explicit generation can trigger further text requests without a new confirmation each time. Independent polishing sends only text you separately select. AI does not directly rewrite experiences or saved works."
+      ],
+      [
+        "Network and providers",
+        "Maps and place search use Apple Maps services and require a network connection. Optional AI connects directly to DeepSeek using your own API key, with fees under your DeepSeek account rules. Core organization and recaps do not depend on a Seen content server. DeepSeek retention, training, deletion and cross-border handling follow its applicable terms and account rules; Seen does not promise that the provider never retains or trains on submitted content."
+      ],
+      [
+        "Stopping requests and the full policy",
+        "Turning off Home AI mode cancels current photo understanding and relationship analysis tasks. Independent polishing still requires an explicit submission of selected text. Revoke photo understanding authorization or remove the connection to stop corresponding new requests. Content already sent cannot be recalled. Read the privacy policy for the complete handling rules."
+      ]
+    ],
+    "compareTitle": "Seen and Apple Photos: what is different?",
+    "compareIntro": "Apple Photos manages your system photo library and offers curated memories and memory movies. Seen lets you explicitly choose a set of photos to revisit by their existing dates and reliable places, then save recaps or discoveries as editable works. You can use both; originals remain managed by Apple Photos.",
+    "comparisonHeaders": [
+      "Dimension",
+      "Apple Photos",
+      "Seen: Photo Memories"
+    ],
+    "comparison": [
+      [
+        "Scope",
+        "Manages the system photo library and offers curated memories.",
+        "Covers photos you explicitly add; recaps do not include your unadded library."
+      ],
+      [
+        "Browsing and search",
+        "Offers library browsing, search and location views as well as automatic memories.",
+        "Browse Past by day, month or year; search by date, city or place."
+      ],
+      [
+        "Memories and works",
+        "View memories, play memory movies, personalize and share memories.",
+        "Monthly, yearly, On This Day, same-place, city and cross-year recaps. Some themes need more material. Explicitly keep a work, edit it, then share one cover summary image."
+      ],
+      [
+        "Originals and moving devices",
+        "Originals are managed by the system photo library; iCloud Photos is optional.",
+        "Originals remain in Apple Photos. Local asset backup and restore exclude system originals; no Seen account cloud sync currently."
+      ],
+      [
+        "Optional AI",
+        "Some intelligence features depend on device, OS version and region.",
+        "Core recaps work without AI. Optional AI uses your own DeepSeek API key, with fees charged by DeepSeek. Photo understanding separately confirms scope and costs before sending reduced, metadata-stripped still images."
+      ],
+      [
+        "Devices and costs",
+        "An iPhone system app; optional iCloud storage plans are charged separately.",
+        "Designed for iPhone; iOS 26.5 or later. Check your App Store for current pricing and compatibility."
+      ]
+    ],
+    "choiceTitle": "Choose for your needs",
+    "choice": "For browsing your full system library and watching memory movies, start with Apple Photos. If you want to choose a set of life records, revisit them by time and place, and keep editable works, explore Seen. If account-based cloud sync is essential, consider that Seen does not currently offer it.",
+    "comparisonNote": "This comparison is provided by the Seen developer, not an independent review. Apple features follow its current documentation and can vary by OS, device and region.",
+    "appleSources": [
+      {
+        "label": "Apple: View memories in Photos on iPhone",
+        "url": "https://support.apple.com/guide/iphone/iphd4f70e68f/ios"
+      },
+      {
+        "label": "Apple: iPhone Photos user guide",
+        "url": "https://support.apple.com/guide/iphone/iph3d267610/ios"
+      }
+    ],
+    "audience": [
+      [
+        "Find a day or place again",
+        "For people who want to choose photos and revisit trips and everyday moments by date and reliable place. Recaps cover only added records with the relevant information."
+      ],
+      [
+        "Check your device and sync needs",
+        "Requires iOS 26.5 or later. Seen does not currently offer account-based cloud sync. Core recaps need no AI; optional AI requires your own DeepSeek API key, with fees charged by DeepSeek."
+      ]
+    ],
+    "allQuestions": "Read all questions and answers →",
+    "downloadTitle": "Return to the days behind your photos.",
+    "downloadLabel": "View Seen on the App Store",
+    "facts": [
+      [
+        "English name",
+        "Seen: Photo Memories"
+      ],
+      [
+        "Chinese name",
+        "所见Seen - 照片回忆"
+      ],
+      [
+        "App ID / Bundle ID",
+        "6810665956 / leo.Seen"
+      ],
+      [
+        "Developer / seller",
+        "浩然 刘; website credit: Leo Liu"
+      ],
+      [
+        "Category",
+        "Photo & Video"
+      ],
+      [
+        "Platform and languages",
+        "Designed for iPhone; iOS 26.5 or later; Chinese and English"
+      ],
+      [
+        "Public version",
+        "CN and US storefronts checked October 31, 2026: 2.0.2. The public lookup does not expose a build number."
+      ],
+      [
+        "Download price",
+        "CN and US storefronts checked October 31, 2026: free to download. Current pricing and purchase items depend on your regional App Store."
+      ],
+      [
+        "Core browsing",
+        "Choose photos to add; browse by day, month or year; search by date, city or place. Maps use material with reliable location support."
+      ],
+      [
+        "Recaps and works",
+        "Monthly, yearly, On This Day, same-place, city and cross-year recaps. Save editable Seen works and preview one cover summary image before sharing. Some themes require more material."
+      ],
+      [
+        "Accounts and storage",
+        "No Seen account. Core records, works and analysis caches stay on device. Local asset backup and restore exclude original system photos. No account-based cloud sync currently."
+      ],
+      [
+        "Originals and scope",
+        "Apple Photos manages originals. Organization, recaps and sharing do not delete them. A separate original-deletion action requires system confirmation. Recaps are not a complete life history or verified visit record."
+      ],
+      [
+        "Optional AI",
+        "DeepSeek only; your own DeepSeek API key is required, with fees charged by DeepSeek. Photo understanding separately confirms scope and costs before sending reduced metadata-stripped still images. Text analysis and independent polishing send material under their respective authorizations. AI does not directly rewrite experiences or saved works."
+      ],
+      [
+        "Places",
+        "No guessed missing locations. Available photo information and valid place corrections support browsing under the current rules."
+      ],
+      [
+        "APP filing",
+        "皖ICP备2026038039号-1A"
+      ],
+      [
+        "Website",
+        "https://liuh11263-cpu.github.io/seen-app/"
+      ]
+    ],
+    "faq": [
+      {
+        "id": "identity",
+        "question": "What is Seen, and how do I identify the right app?",
+        "answer": "Look for App ID 6810665956, seller 浩然 刘 and this website. Seen: Photo Memories (所见Seen - 照片回忆 in China) is a local-first photo memories app for iPhone."
+      },
+      {
+        "id": "price",
+        "question": "Does Seen cost money? Are there subscriptions or in-app purchases?",
+        "answer": "The China and US storefronts showed a free download when checked on October 31, 2026. Check your regional App Store for current pricing and purchase items. Optional AI requires your own DeepSeek API key, with API fees charged separately by DeepSeek under your account rules. Core organization and recaps require no AI and incur no DeepSeek API fees."
+      },
+      {
+        "id": "account",
+        "question": "Do I need a Seen account?",
+        "answer": "No. Core organization and recaps work without registering or signing in to a Seen account."
+      },
+      {
+        "id": "privacy",
+        "question": "Does Seen upload my photos to a server?",
+        "answer": "Seen has no cloud photo library of its own. Core records, works and analysis caches stay on device; Apple Photos manages originals. Optional photo understanding sends reduced, metadata-stripped still images directly to DeepSeek after separate scope and cost confirmation. It requires your own DeepSeek API key, with fees charged by DeepSeek. Removing metadata does not make an image anonymous."
+      },
+      {
+        "id": "ai",
+        "question": "Can I use Seen without AI? Does AI cost extra?",
+        "answer": "Yes. Core organization and recaps work without AI. Optional AI connects only to DeepSeek, requires your own DeepSeek API key, and is charged by DeepSeek under your account rules. Photo understanding requires separate selection and cost confirmation. While Home AI authorization is enabled, material changes or explicit generation may trigger text analysis. AI may make mistakes or find nothing new; it does not directly rewrite experiences or saved works."
+      },
+      {
+        "id": "requirements",
+        "question": "Which iPhones and iOS versions are supported?",
+        "answer": "Seen is designed for iPhone and currently requires iOS 26.5 or later. Check the App Store for specific device compatibility."
+      },
+      {
+        "id": "languages",
+        "question": "Does Seen support Chinese and English?",
+        "answer": "Yes. Seen has Chinese and English interfaces. Its English App Store name is Seen: Photo Memories."
+      },
+      {
+        "id": "location",
+        "question": "Can I use photos without locations? Will Seen guess a place?",
+        "answer": "Photos with reliable dates can still be organized and revisited by time. Seen does not guess missing places; material without reliable location support is excluded from location-dependent maps or recaps. Valid place corrections can support browsing. Missing capture dates are not invented either."
+      },
+      {
+        "id": "originals",
+        "question": "Will organization delete originals in Apple Photos?",
+        "answer": "Organization, recaps and sharing do not delete original photos. Seen requests deletion of specified Apple Photos originals only after you separately choose original deletion and complete the system confirmation."
+      },
+      {
+        "id": "storage",
+        "question": "Where are the originals after I add photos?",
+        "answer": "Originals remain managed by Apple Photos. Seen saves records, works and caches on your device; these do not replace the system photo library or a backup of originals."
+      },
+      {
+        "id": "backup",
+        "question": "Can I back up Seen and move to another phone?",
+        "answer": "Local asset backup and restore cover core records, works and related caches, but exclude original system photos. Transfer originals separately and retain photo access when moving devices. Restore checks versions and asset conflicts rather than silently merging or overwriting different assets."
+      },
+      {
+        "id": "sync",
+        "question": "Does Seen offer account-based cloud sync?",
+        "answer": "Not currently. Seen records stay on device and do not automatically sync through a Seen account. Use local backups for migration and transfer system photo originals separately."
+      },
+      {
+        "id": "comparison",
+        "question": "How does Seen compare with memories in Apple Photos?",
+        "answer": "Apple Photos offers system-library browsing, search, location views and memory movies. Seen focuses on revisiting a chosen set by time and place, monthly and yearly recaps, and works you explicitly save and edit. You can use both; see this website’s comparison page."
+      },
+      {
+        "id": "map",
+        "question": "Can I see photos on a map?",
+        "answer": "Yes, for photos with reliable location support, with city and place browsing. Seen does not invent map points for missing locations. Maps and place search require a network connection."
+      },
+      {
+        "id": "works",
+        "question": "What is a Seen work? Can I edit and share it?",
+        "answer": "A work is a recap or discovery you explicitly keep, retaining photos, dates, places and related experiences. Edit its title, words, selected photos and cover. Before sharing, preview one summary image containing the original cover, title, places, dates and counts. Sharing does not automatically save a work."
+      },
+      {
+        "id": "recaps",
+        "question": "Are monthly, yearly and On This Day recaps available?",
+        "answer": "Yes, alongside same-place, city and cross-year destination records. Recaps cover added records with the relevant information, and some themes may be unavailable without enough material. Experience counts are not verified visit counts."
+      },
+      {
+        "id": "developer",
+        "question": "Who develops Seen?",
+        "answer": "Seen is developed and maintained by App Store seller 浩然 刘, credited as Leo Liu on this website. App ID: 6810665956. APP filing: 皖ICP备2026038039号-1A."
+      },
+      {
+        "id": "support",
+        "question": "How can I get support?",
+        "answer": "Email liuh11260@gmail.com with your version, steps and error message. Do not send API keys or unnecessary private photos. See the Support page for more guidance."
+      },
+      {
+        "id": "reviews",
+        "question": "Is Seen well reviewed, and is it right for me?",
+        "answer": "Read current App Store reviews and consider your iOS version, local-storage preferences and sync needs. Website screenshots use licensed photos and sample records; they are not user reviews, real user records or evidence of AI quality."
+      },
+      {
+        "id": "other-apps",
+        "question": "How should I choose between Seen, Google Photos and other photo apps?",
+        "answer": "Compare required OS versions, photo storage, sync, search and recap scope. Seen is designed for iPhone, requires iOS 26.5 or later, stores core records locally and currently offers no Seen account cloud sync. Check each other app’s current official documentation for features and prices; this page makes no unverified ranking claims."
+      }
+    ],
+    "sources": [
+      {
+        "label": "App Store · 中国区",
+        "url": "https://apps.apple.com/cn/app/id6810665956"
+      },
+      {
+        "label": "App Store · United States",
+        "url": "https://apps.apple.com/us/app/id6810665956"
+      },
+      {
+        "label": "Privacy policy",
+        "url": "https://liuh11263-cpu.github.io/seen-app/en/privacy/"
+      },
+      {
+        "label": "Support",
+        "url": "https://liuh11263-cpu.github.io/seen-app/en/support/"
+      }
+    ]
+  }
+}
